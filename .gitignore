@@ -5,7 +5,7 @@ venv
 # ignore ALL .env file
 *.env
 # ignore all .session file
-+2348118637072.session
-+2348118637072.session-journal
+*.session
+
 # ignore ALL files in ANY directory named temp
 temp/ 
