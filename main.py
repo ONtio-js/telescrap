@@ -10,7 +10,6 @@ import time
 from dotenv import load_dotenv
 import os
 load_dotenv()
-print()
 
 api_id = os.environ["api_id"]
 api_hash = os.environ["api_hash"]
