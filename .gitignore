@@ -1,0 +1,10 @@
+ # ignore ALL .log files
+*.csv
+__pycache__
+venv
+# ignore ALL .env file
+*.env
+# ignore all .session file
+*.session,*.session-journal
+# ignore ALL files in ANY directory named temp
+temp/ 
